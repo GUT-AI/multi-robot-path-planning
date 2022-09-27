@@ -60,7 +60,8 @@ Component dependencies
 
 This component depends on the following components of GUT-AI:
 
-* (none)
+* `MTSU <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c4-2-mtsu>`_
+* `Multi-Agent Communication <https://github.com/GUT-AI/gut-ai/blob/master/components/README.rst#component-c4-11-multi-agent-communication>`_
 
 Environment simulators
 ^^^^^^^^^^^^^^^^^^^^^^
