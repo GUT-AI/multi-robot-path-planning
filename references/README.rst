@@ -12,3 +12,16 @@ References
 .. contents:: **Table of Contents**
 
 |
+
+Using Reinforcement Learning
+----------------------------
+
+
+
+Using Supervised Learning
+-------------------------
+
+
+Using rule-based (Symbolic) AI
+------------------------------
+
