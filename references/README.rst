@@ -16,7 +16,9 @@ References
 Using Reinforcement Learning
 ----------------------------
 
+**2019**
 
+- `Multi-Robot Path Planning Method Using Reinforcement Learning <https://www.mdpi.com/2076-3417/9/15/3057>`_
 
 Using Supervised Learning
 -------------------------
