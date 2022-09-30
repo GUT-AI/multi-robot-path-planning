@@ -25,3 +25,6 @@ Using Supervised Learning
 Using rule-based (Symbolic) AI
 ------------------------------
 
+**2005**
+
+- `Hoplites: A Market-Based Framework for Planned Tight Coordination in Multirobot Teams <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.6062&rep=rep1&type=pdf>`_
