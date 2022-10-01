@@ -24,6 +24,7 @@ Using Reinforcement Learning
 **2021**
 
 - `PRIMAL2: Pathfinding via Reinforcement and Imitation Multi-Agent Learning - Lifelong <https://arxiv.org/pdf/2010.08184.pdf>`_
+- `A reinforcement learning‐based approach for modeling and coverage of an unknown field using a team of autonomous ground vehicles <https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/int.22331>`_
 
 Using Supervised Learning
 -------------------------
@@ -31,6 +32,10 @@ Using Supervised Learning
 **2020**
 
 - `Graph Neural Networks for Decentralized Multi-Robot Path Planning <https://arxiv.org/pdf/1912.06095.pdf>`_
+
+**2021**
+
+- `Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning <https://arxiv.org/pdf/2011.13219.pdf>`_
 
 Using rule-based (Symbolic) AI
 ------------------------------
