@@ -6,8 +6,8 @@ authors:
     given-names: Ioannis
 identifiers:
   - type: doi
-    value: 10.17605/osf.io/8frxm
+    value: 10.17605/osf.io/awrbc
     description: The concept DOI for the collection containing all versions of the Citation File Format.
 date-released: "2022"
 license: "Creative Commons Zero CC0 1.0"
-doi: 10.17605/osf.io/8frxm
+doi: 10.17605/osf.io/awrbc
